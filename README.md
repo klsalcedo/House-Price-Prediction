@@ -1,4 +1,4 @@
-![for sale context image from lending tree: https://www.lendingtree.com/home/mortgage/how-to-buy-a-house-when-your-current-home-hasnt-sold/](for-sale-header.jpg)
+![for sale context image from lending tree: https://www.lendingtree.com/home/mortgage/how-to-buy-a-house-when-your-current-home-hasnt-sold/](images/for-sale-header.jpg)
 
 Housing Price Prediction Project
 
